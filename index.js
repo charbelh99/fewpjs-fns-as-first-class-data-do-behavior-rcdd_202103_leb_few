@@ -23,3 +23,11 @@ function greet(x){
   
 }
 /* Write your implementation of displayMessage() */
+function displayMessage(x){
+  let update = document.getElementById("greeting");
+  
+}
+
+
+
+
